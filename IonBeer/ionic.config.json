@@ -1,0 +1,7 @@
+{
+  "name": "IonBeer",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
